@@ -1,0 +1,22 @@
+.idea/
+dataset/
+result/
+.ipynb_checkpoints/
+log.log
+weights/
+cutouts/
+finalModels/
+data/
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyBuilder
+target/
