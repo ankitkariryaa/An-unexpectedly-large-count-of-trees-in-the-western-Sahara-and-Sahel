@@ -23,4 +23,6 @@ Use the scripts in the notebooks/scripts folder for compressing the generated im
    
 
 ## A note on the data source
-This code is customized for the data that was available to us. It relies on satellite images with two channels and assumes that the two channels are stored in independent files and consequently read independently. The effect of the data source is evident in the code in notebooks and core libraries. In case your data is available in a single file (maybe with multiple channels), then the notebooks and core libraries need to be adapted accordingly. 
+This code is customized for the data that was available to us. It relies on satellite images with two channels and assumes that the two channels are stored in independent files and consequently read independently. The effect of the data source is evident in the code in notebooks and core libraries. In case your data is available in a single file (maybe with multiple channels), then the notebooks and core libraries need to be adapted accordingly.
+
+[![DOI](https://zenodo.org/badge/281404024.svg)](https://zenodo.org/badge/latestdoi/281404024)
