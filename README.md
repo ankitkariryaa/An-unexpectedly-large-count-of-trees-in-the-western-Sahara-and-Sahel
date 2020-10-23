@@ -5,7 +5,7 @@ This repository contains the neural network model (UNet) and other essential cod
 See [INSTALL](./INSTALL.md).
 
 ## Structure
-The code is structured in Jupyter notebooks available in the noteooks/ folder. Each notebook contains a considerable part of the pipeline and they are supported with core libraries available in the notebooks/core directory. Input, output paths and other configurations for each notebook must be declared in the notebooks/config/ directory. Please follow these four steps for training a UNet model and for analyzing images using the trained UNet model.
+The code is structured in Jupyter notebooks available in the notebooks/ folder. Each notebook contains a considerable part of the pipeline and they are supported with core libraries available in the notebooks/core directory. Input, output paths and other configurations for each notebook must be declared in the notebooks/config/ directory. Please follow these four steps for training a UNet model and for analyzing images using the trained UNet model.
 
 
 ### Step 1: Data preparation - [Preprocessing.ipynb](notebooks/1-Preprocessing.ipynb)
