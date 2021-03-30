@@ -73,7 +73,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycrypto==2.6.1
-Pygments==2.6.1
+Pygments==2.7.4
 pygobject==3.26.1
 pyparsing==2.4.7
 pyproj==2.6.0
