@@ -102,7 +102,7 @@ sklearn-pandas==1.8.0
 snuggs==1.4.7
 tensorboard==2.1.1
 tensorflow-estimator==2.1.1
-tensorflow-gpu==2.1.1
+tensorflow-gpu==2.5.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
